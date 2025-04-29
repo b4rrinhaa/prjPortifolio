@@ -5,11 +5,11 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: "https://github.com/b4rrinhaa", // substitua pelo seu link real
+      href: "https://github.com/b4rrinhaa", 
     },
     {
       icon: Linkedin,
-      href: "https://www.linkedin.com/in/seu-usuario", // substitua pelo seu link real
+      href: "https://www.linkedin.com/in/seu-usuario", 
     },
   ];
 
